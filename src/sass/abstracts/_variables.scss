@@ -1,3 +1,19 @@
 /* ********* */
 /* @VARIABLES */
 /* ********* */
+
+$colores: (
+    pildora1: #205072,
+    pildora2: #329D9C,
+    pildora3: #56c596,
+    pildora4: #7be495,
+    pildora5: #cff4d2
+);
+
+$circulos: (
+    circulo1: linear-gradient(to right bottom, #205072, #146382, #0b778e, #188a97, #329d9c),
+    circulo2: linear-gradient(to right bottom, #329d9c, #33a79e, #39b29d, #46bb9a, #56c596),
+    circulo3: linear-gradient(to right bottom, #56c596, #5ecd96, #67d596, #70dc96, #7be495),
+    circulo4: linear-gradient(to right bottom, #7be495, #5bd39d, #41c2a1, #32b0a1, #329d9c),
+    circulo5: linear-gradient(to right bottom, #cff4d2, #bcf0c2, #a8ecb3, #93e8a4, #7be495),
+);
